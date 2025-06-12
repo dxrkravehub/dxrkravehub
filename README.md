@@ -1,5 +1,10 @@
 ## Hi there 👋
+---
+### Мой анимированный вклад на GitHub
 
+![GitHub Contribution Snake](https://github.com/ВАШ_НИКНЕЙМ/ВАШ_НИКНЕЙМ/blob/main/dist/github-contribution-grid-snake.svg?raw=true)
+
+---
 <!--
 **dxrkravehub/dxrkravehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
