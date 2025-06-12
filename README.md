@@ -6,6 +6,8 @@
   
   <br>
   
+ 👾 I'm Software Developer
+ 
  ⚡ I’m currently working on **My own game engine**
  
  ⚡ I’m currently learning **Lisp,Haskell**
@@ -18,7 +20,7 @@
   <br>
   <img alt="Isn't it a beautiful day?" src="https://raw.githubusercontent.com/dxrkravehub/dxrkravehub/output/github-contribution-grid-snake.svg" />
 <br>
-  <h3 align="center"> Software Developer </h3>
+  <h3 align="center">  </h3>
 
 <br/>
 
