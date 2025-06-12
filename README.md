@@ -2,7 +2,7 @@
 ---
 ### Мой анимированный вклад на GitHub
 
-![GitHub Contribution Snake](https://github.com/ВАШ_НИКНЕЙМ/ВАШ_НИКНЕЙМ/blob/main/dist/github-contribution-grid-snake.svg?raw=true)
+![GitHub Contribution Snake](https://github.com/dxrkravehub/dxrkravehub/blob/main/dist/github-contribution-grid-snake.svg?raw=true)
 
 ---
 <!--
