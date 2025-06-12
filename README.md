@@ -1,14 +1,19 @@
-<br>
+
 <div align="center">
+  
+
   Hi there 😄
   
+  <br>
   
  ⚡ I’m currently working on **My own game engine**
  
  ⚡ I’m currently learning **Lisp,Haskell**
 
  💬 Ask me about **anything [here](https://github.com/dxrkravehub/dxrkravehub/issues)**
- 
+
+   Pronouns: (He,Him)
+   
   <h2> My Contributions </h2>
   <br>
   <img alt="Isn't it a beautiful day?" src="https://raw.githubusercontent.com/dxrkravehub/dxrkravehub/output/github-contribution-grid-snake.svg" />
@@ -19,7 +24,7 @@
 
  </div>
   
-     Pronouns: (He,Him)
+     
   
 
 
