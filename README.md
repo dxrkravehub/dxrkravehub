@@ -4,8 +4,8 @@
   
   Greetings! 👋😄
   
-  <br>
-  
+
+
  🤖 I'm an **ML Engineer**
  
  ⚡ I’m currently working on **Machine Learning & Deep Learning projects**
@@ -22,7 +22,18 @@
  - ☁️ Cloud & MLOps (Docker, Kubernetes, MLflow, AWS/GCP/Azure)
  - 🗄️ Databases (PostgreSQL, MongoDB, Redis)
  - 🧩 NLP, Computer Vision, Generative AI
-   
+     <br>
+  <p align="center">
+  <a href="https://www.kaggle.com/demoneater" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="My Kaggle"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://huggingface.co/cvdetects" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=white" alt="My Hugging Face"/>
+  </a>
+</p>
+
   <h2> My Contributions </h2>
   <br>
   <img alt="Isn't it a beautiful day?" src="https://raw.githubusercontent.com/dxrkravehub/dxrkravehub/output/github-contribution-grid-snake.svg" />
