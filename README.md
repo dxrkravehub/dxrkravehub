@@ -1,20 +1,27 @@
 
 <div align="center">
   
-
-  Hi there 😄
+  
+  Greetings! 👋😄
   
   <br>
   
- 👾 I'm Software Developer
+ 🤖 I'm an **ML Engineer**
  
- ⚡ I’m currently working on **My own game engine**
+ ⚡ I’m currently working on **Machine Learning & Deep Learning projects**
  
- ⚡ I’m currently learning **Lisp,Haskell**
-
- 💬 Ask me about **anything [here](https://github.com/dxrkravehub/dxrkravehub/issues)**
-
-   Pronouns: (He,Him)
+ ⚡ I’m currently learning **MLOps & Large Language Models**
+ 
+ 💬 Ask me about **ML, AI, and Data Science [here](https://github.com/dxrkravehub/dxrkravehub/issues)**
+ 
+ 📚 Tech Stack:
+ 
+ - 🐍 Python (NumPy, Pandas, Scikit-learn)
+ - 🔥 PyTorch / TensorFlow
+ - 📊 Data Visualization (Matplotlib, Seaborn, Plotly)
+ - ☁️ Cloud & MLOps (Docker, Kubernetes, MLflow, AWS/GCP/Azure)
+ - 🗄️ Databases (PostgreSQL, MongoDB, Redis)
+ - 🧩 NLP, Computer Vision, Generative AI
    
   <h2> My Contributions </h2>
   <br>
