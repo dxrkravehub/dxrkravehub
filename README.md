@@ -8,7 +8,7 @@
 
  🤖 I'm an **ML Engineer**
  
- ⚡ I’m currently working on **Machine Learning & Deep Learning projects**
+ ⚡ I’m currently working on **driving contributions in Machine Learning and deep study initiatives.**
  
  ⚡ I’m currently learning **MLOps & Large Language Models**
  
